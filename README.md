@@ -15,23 +15,24 @@
 
 ## 🎓 Eğitim
 
+- **Maruf Akademi:** Liderlik, Kişisel Gelişim ve Girişimcilik Eğitimleri
 - **Boğaziçi Enstitüsü:** C++ Programlama Dili (Algoritma Uygulamalı)
 - **Tuzla İmam Hatip Ortaokulu:** B1 Düzey İngilizce
 - **Pendik Ömer Çam Anadolu İmam Hatip Lisesi:** A1 Düzey Arapça
 
 ## 📂 Projeler
 
-**Flutter Projeleri**
+**Flutter Projelerim**
 - **Mağaza Ürün Takip Listesi Mobil Uygulaması:** Sqflite kütüphanesi ile mağaza ürün kayıt listesi uygulaması.
 - **Mobil Film Öneri Uygulaması:** İzlenebilecek film önerileri veren ve önerileri üstüne tıklayarak yenileyebileceğiniz bir uygulama.
 - **Mobil Notlar Uygulaması:** Android ve IOS uyumlu notlar uygulaması.
 - **Mobil Hatırlatıcı Uygulaması:** Android ve IOS uyumlu sqflite veritabanını kullanan hatırlatıcı uygulaması.
 
-**Kotlin Projeleri**
+**Kotlin Projelerim**
 - **Mobil Zikirmatik:** Android için zikirmatik uygulaması.
 - **Mobil Ezan Vakti:** SQLite kütüphanesi ile seçilen ezan vaktinin o gün içerisindeki saatini gösteren uygulama.
 
-**Python Projeleri**
+**Python Projelerim**
 - **Yapılacaklar Listesi:** Komut satırı tabanlı yapılacaklar listesi uygulaması.
 - **Sudoku Çözücü:** Sudoku çözme algoritması.
 - **Hava Durumu:** OpenWeatherAPI ile hava durumu uygulaması.
@@ -43,7 +44,7 @@
 - **Sesli Asistan:** Speech Recognition ve Responsive Voice kütüphaneleri ile konuşma tanıma ve yanıt verme uygulaması.
 - **Yüz Tanıma Sistemi:** OpenCV ve dlib kütüphaneleri ile yüz tanıma yazılımı.
 
-**Oyun Geliştirme Projeleri**
+**Oyun Geliştirme Projelerim**
 - **Last Tree:** Unreal Engine 5 ile yapılmış 3D tower defense oyunu. (itch.io hesabımda mevcuttur.)
 - **There is Mars:** Unity ile yapılmış 2D uzay gemisi oyunu. (Novice Summer Jam Series: One-Button Input Jam 20.si)
 - **Super Mario Klon:** Eğitim amacıyla yapılmış Super Mario klonu.
