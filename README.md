@@ -17,8 +17,8 @@
 
 - **Maruf Akademi:** Liderlik, Kişisel Gelişim ve Girişimcilik Eğitimleri
 - **Boğaziçi Enstitüsü:** C++ Programlama Dili (Algoritma Uygulamalı)
-- **Tuzla İmam Hatip Ortaokulu:** B1 Düzey İngilizce
-- **Pendik Ömer Çam Anadolu İmam Hatip Lisesi:** A1 Düzey Arapça
+- **Tuzla İmam Hatip Ortaokulu İngilizce Dil Proje Sınıfı:** B1 Düzey İngilizce
+- **Pendik Ömer Çam Anadolu İmam Hatip Lisesi Arapça Dil Hazırlık:** A1 Düzey Arapça
 
 ## 📂 Projeler
 
