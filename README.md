@@ -25,6 +25,7 @@
 - **Mağaza Ürün Takip Listesi Mobil Uygulaması:** Sqflite kütüphanesi ile mağaza ürün kayıt listesi uygulaması.
 - **Mobil Film Öneri Uygulaması:** İzlenebilecek film önerileri veren ve önerileri üstüne tıklayarak yenileyebileceğiniz bir uygulama.
 - **Mobil Notlar Uygulaması:** Android ve IOS uyumlu notlar uygulaması.
+- **Mobil Hatırlatıcı Uygulaması:** Android ve IOS uyumlu sqflite veritabanını kullanan hatırlatıcı uygulaması.
 
 ### Kotlin Projeleri
 - **Mobil Zikirmatik:** Android için zikirmatik uygulaması.
@@ -46,6 +47,8 @@
 - **Last Tree:** Unreal Engine 5 ile yapılmış 3D tower defense oyunu. (itch.io hesabımda mevcuttur.)
 - **There is Mars:** Unity ile yapılmış 2D uzay gemisi oyunu. (Novice Summer Jam Series: One-Button Input Jam 20.si)
 - **Super Mario Klon:** Eğitim amacıyla yapılmış Super Mario klonu.
+
+**Not:** Bu projelerin hepsi kendimi geliştirmek için yaptığım deneysel temel düzey projelerdir, her biri farklı bir yeteneğimi temsil etmektedir.
 
 ## 🌐 Sosyal Medya
 
