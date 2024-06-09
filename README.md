@@ -19,7 +19,7 @@
 - **Boğaziçi Enstitüsü:** C++ Programlama Dili (Algoritma Uygulamalı)
 - **Tuzla İmam Hatip Ortaokulu İngilizce Dil Proje Sınıfı:** B1 Düzey İngilizce
 - **Pendik Ömer Çam Anadolu İmam Hatip Lisesi Arapça Dil Hazırlık:** A1 Düzey Arapça
-- **BTK:** Google Flutter ile Mobil Uygulama Sertifika No: [1kZCoNEnG8](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=1kZCoNEnG8)
+- **BTK:** Google Flutter ile Mobil Uygulama [Sertifika No: 1kZCoNEnG8](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=1kZCoNEnG8)
 
 ## 📂 Projeler
 
