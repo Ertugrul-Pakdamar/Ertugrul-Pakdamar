@@ -17,7 +17,7 @@
 
 - **Maruf Akademi:** Liderlik, Kişisel Gelişim ve Girişimcilik Eğitimleri
 - **BTK:** Google Flutter ile Mobil Uygulama [Sertifika No: 1kZCoNEnG8](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=1kZCoNEnG8)
-- **Boğaziçi Enstitüsü:** C++ Programlama Dili (Algoritma Uygulamalı)
+- **Boğaziçi Enstitüsü:** [C++ Programlama Dili](https://istanbulbogazicienstitu.com/hesap/sertifika-sorgula?sertifika=MjI0OTU5LS0tMTA0MjIxLS0tMmUwMWUxNzQ2Nzg5MWY3YzkzM2RiYWEwMGUxNDU5ZDIzZGIzZmU0Zg==)
 - **Tuzla İmam Hatip Ortaokulu İngilizce Dil Proje Sınıfı:** B1 Düzey İngilizce
 - **Pendik Ömer Çam Anadolu İmam Hatip Lisesi Arapça Dil Hazırlık:** A1 Düzey Arapça
 
