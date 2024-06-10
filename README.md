@@ -32,6 +32,8 @@
 ### **Kotlin Projelerim**
 - **Mobil Zikirmatik:** Android için zikirmatik uygulaması.
 - **Mobil Ezan Vakti:** SQLite kütüphanesi ile seçilen ezan vaktinin o gün içerisindeki saatini gösteren uygulama.
+- **Zar Atma:** Android zar atma uygulaması.
+- **Benim Hakkımda:** Android benim hakkımda uygulaması.
 
 ### **Python Projelerim**
 - **Yapılacaklar Listesi:** Komut satırı tabanlı yapılacaklar listesi uygulaması.
