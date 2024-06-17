@@ -19,6 +19,7 @@
 - **BTK:** Google Flutter ile Mobil Uygulama [Sertifika No: 1kZCoNEnG8](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=1kZCoNEnG8)
 - **BTK:** Kotlin ile Android Mobil Uygulama Geliştirme Temel Seviye [Sertifika No: kK1hVgL6Bk](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=kK1hVgL6Bk)
 - **Udemy:** Yapay Zeka için Python Programlama [Sertifika No: UC-011f139e-eb64-4863-a0fd-2932b1388ea8](ude.my/UC-011f139e-eb64-4863-a0fd-2932b1388ea8)
+- **Udemy:**  Sıfırdan Uzmanlığa Veri Bilimi [Sertifika No: UC-15ea957f-b12c-44ae-88b4-3a944cec37d7](ude.my/UC-15ea957f-b12c-44ae-88b4-3a944cec37d7)
 - **Boğaziçi Enstitüsü:** [C++ Programlama Dili](https://istanbulbogazicienstitu.com/hesap/sertifika-sorgula?sertifika=MjI0OTU5LS0tMTA0MjIxLS0tMmUwMWUxNzQ2Nzg5MWY3YzkzM2RiYWEwMGUxNDU5ZDIzZGIzZmU0Zg==)
 - **Tuzla İmam Hatip Ortaokulu İngilizce Dil Proje Sınıfı:** B1 Düzey İngilizce
 - **Pendik Ömer Çam Anadolu İmam Hatip Lisesi Arapça Dil Hazırlık:** A1 Düzey Arapça
