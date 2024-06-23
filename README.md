@@ -51,6 +51,12 @@
 - **Sesli Asistan:** Speech Recognition ve Responsive Voice kütüphaneleri ile konuşma tanıma ve yanıt verme uygulaması.
 - **Yüz Tanıma Sistemi:** OpenCV ve dlib kütüphaneleri ile yüz tanıma yazılımı.
 
+### **Yapay Zeka Projelerim**
+## **Makina Öğrenmesi Deneysel Projeler**
+- **Regression:** Linear Regression, Decision Tree Regression, Random Forest Regression
+- **Classification:** Decision Tree Classification, Random Forest Classification, K-Nearest Neighbour Classification, Support Vector Machine Classification
+- **Clustering:** K-Means Clustering, Hierarchial Cluestring
+
 ### **Oyun Geliştirme Projelerim**
 - **Last Tree:** Unreal Engine 5 ile yapılmış 3D tower defense oyunu. (itch.io hesabımda mevcuttur.)
 - **There is Mars:** Unity ile yapılmış 2D uzay gemisi oyunu. (Novice Summer Jam Series: One-Button Input Jam 20.si)
