@@ -52,7 +52,7 @@
 - **Yüz Tanıma Sistemi:** OpenCV ve dlib kütüphaneleri ile yüz tanıma yazılımı.
 
 ### **Yapay Zeka Projelerim**
-## **Makina Öğrenmesi Deneysel Projeler**
+#### **Makina Öğrenmesi Deneysel Projeler**
 - **Regression:** Linear Regression, Decision Tree Regression, Random Forest Regression
 - **Classification:** Decision Tree Classification, Random Forest Classification, K-Nearest Neighbour Classification, Support Vector Machine Classification
 - **Clustering:** K-Means Clustering, Hierarchial Cluestring
