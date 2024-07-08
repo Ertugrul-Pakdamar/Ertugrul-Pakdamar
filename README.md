@@ -33,6 +33,8 @@
 - **Mobil Film Öneri Uygulaması:** İzlenebilecek film önerileri veren ve önerileri üstüne tıklayarak yenileyebileceğiniz bir uygulama.
 - **Mobil Notlar Uygulaması:** Android ve IOS uyumlu notlar uygulaması.
 - **Mobil Hatırlatıcı Uygulaması:** Android ve IOS uyumlu sqflite veritabanını kullanan hatırlatıcı uygulaması.
+- **Mobil Yapılacaklar Listesi Uygulaması:** Android ve IOS uyumlu Hive veritabanı kullanan yapılacaklar listesi uygulaması.
+- **Mobil Hesap Makinesi Uygulaması:** Android ve IOS uyumlu hesap makinesi uygulaması.
 
 ### **Kotlin Projelerim**
 - **Mobil Zikirmatik:** Android için zikirmatik uygulaması.
