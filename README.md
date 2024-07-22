@@ -35,6 +35,7 @@
 - **Mobil Hatırlatıcı Uygulaması:** Android ve IOS uyumlu sqflite veritabanını kullanan hatırlatıcı uygulaması.
 - **Mobil Yapılacaklar Listesi Uygulaması:** Android ve IOS uyumlu Hive veritabanı kullanan yapılacaklar listesi uygulaması.
 - **Mobil Hesap Makinesi Uygulaması:** Android ve IOS uyumlu hesap makinesi uygulaması.
+- **Mobil E-Ticaret Uygulaması:** Android ve IOS uyumlu E-Ticaret ayakkabı satış mağazası uygulaması.
 
 ### **Kotlin Projelerim**
 - **Mobil Zikirmatik:** Android için zikirmatik uygulaması.
