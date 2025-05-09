@@ -2,7 +2,7 @@
 
 **Merhaba!** Ben Ertuğrul Pakdamar, genç bir yazılımcıyım. Flutter, Kotlin, Unity, Unreal Engine, Python gibi dillerde mobil uygulama, oyun geliştirme ve yapay zeka alanlarında çalışmalar yapıyorum. Öğrenmeye ve kendimi geliştirmeye her zaman açığım.
 
-📫 Bana Ulaşın: [E-mail](mailto:ertu.pakdamar@gmail.com) | [Linktree](https://linktr.ee/ertugrulpakdamar) | [GitHub](https://github.com/Ertugrul-Pakdamar)
+📫 Bana Ulaşın: [E-mail](mailto:ertu.pakdamar@gmail.com) | [Linktree](https://linktr.ee/ertugrulpakdamar) | [GitHub](https://github.com/Ertugrul-Pakdamar) | [LinkedIn](https://linkedin.com/in/ertuğrul-pakdamar)
 
 ## 🔧 Becerilerim
 
@@ -72,3 +72,4 @@
 
 - [Linktree](https://linktr.ee/ertugrulpakdamar)
 - [GitHub](https://github.com/Ertugrul-Pakdamar)
+- [LinkedIn](https://linkedin.com/in/ertuğrul-pakdamar)
