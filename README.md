@@ -1,75 +1,23 @@
-# Ertuğrul Pakdamar
+<h1 align="center">Hi 👋, I'm Ertuğrul</h1>
+<h3 align="center">A passionate frontend developer from Türkiye</h3>
 
-**Merhaba!** Ben Ertuğrul Pakdamar, genç bir yazılımcıyım. Flutter, Kotlin, Unity, Unreal Engine, Python gibi dillerde mobil uygulama, oyun geliştirme ve yapay zeka alanlarında çalışmalar yapıyorum. Öğrenmeye ve kendimi geliştirmeye her zaman açığım.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ertugrul-pakdamar&label=Profile%20views&color=0e75b6&style=flat" alt="ertugrul-pakdamar" /> </p>
 
-📫 Bana Ulaşın: [E-mail](mailto:ertu.pakdamar@gmail.com) | [Linktree](https://linktr.ee/ertugrulpakdamar) | [GitHub](https://github.com/Ertugrul-Pakdamar) | [LinkedIn](https://linkedin.com/in/ertugrul-pakdamar)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ertugrul-pakdamar" alt="ertugrul-pakdamar" /></a> </p>
 
-## 🔧 Becerilerim
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- **Mobil Geliştirme:** Flutter, Kotlin
-- **Oyun Geliştirme:** Unity, Unreal Engine
-- **Programlama Dilleri:** Python, C++, C#
-- **Web Geliştirme:** HTML, CSS, JavaScript
-- **Veritabanı Yönetimi:** SQL
-- **Siber Güvenlik:** Temel bilgiler
+- 🔭 I’m currently working on **Libft**
 
-## 🎓 Eğitim
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-- **Maruf Akademi:** Liderlik, Kişisel Gelişim ve Girişimcilik Eğitimleri
-- **BTK:** Google Flutter ile Mobil Uygulama [Sertifika No: 1kZCoNEnG8](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=1kZCoNEnG8)
-- **BTK:** Kotlin ile Android Mobil Uygulama Geliştirme Temel Seviye [Sertifika No: kK1hVgL6Bk](https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=kK1hVgL6Bk)
-- **Udemy:** Yapay Zeka için Python Programlama [Sertifika No: UC-011f139e-eb64-4863-a0fd-2932b1388ea8](https://www.udemy.com/certificate/UC-011f139e-eb64-4863-a0fd-2932b1388ea8/)
-- **Udemy:** Sıfırdan Uzmanlığa Veri Bilimi [Sertifika No: UC-15ea957f-b12c-44ae-88b4-3a944cec37d7](https://www.udemy.com/certificate/UC-15ea957f-b12c-44ae-88b4-3a944cec37d7/)
-- **Udemy:** A'dan Z'ye Veri Görselleştirme [Sertifika No: UC-12f38d32-461a-457a-ada3-0da317fafc79](https://www.udemy.com/certificate/UC-12f38d32-461a-457a-ada3-0da317fafc79/)
-- **Udemy:** A'dan Z'ye Makine Öğrenmesi [Sertifika No: UC-23b8d9b6-4c8e-4f06-8c86-47bca3cb0257](https://www.udemy.com/certificate/UC-23b8d9b6-4c8e-4f06-8c86-47bca3cb0257/)
-- **Boğaziçi Enstitüsü:** [C++ Programlama Dili](https://istanbulbogazicienstitu.com/hesap/sertifika-sorgula?sertifika=MjI0OTU5LS0tMTA0MjIxLS0tMmUwMWUxNzQ2Nzg5MWY3YzkzM2RiYWEwMGUxNDU5ZDIzZGIzZmU0Zg==)
-- **Tuzla İmam Hatip Ortaokulu İngilizce Dil Proje Sınıfı:** B1 Düzey İngilizce
-- **Pendik Ömer Çam Anadolu İmam Hatip Lisesi Arapça Dil Hazırlık:** A1 Düzey Arapça
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
-## 📂 Projeler
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ertugrul-pakdamar&show_icons=true&locale=en&layout=compact" alt="ertugrul-pakdamar" /></p>
 
-### **Flutter Projelerim**
-- **Mağaza Ürün Takip Listesi Mobil Uygulaması:** Sqflite kütüphanesi ile mağaza ürün kayıt listesi uygulaması.
-- **Mobil Film Öneri Uygulaması:** İzlenebilecek film önerileri veren ve önerileri üstüne tıklayarak yenileyebileceğiniz bir uygulama.
-- **Mobil Notlar Uygulaması:** Android ve IOS uyumlu notlar uygulaması.
-- **Mobil Hatırlatıcı Uygulaması:** Android ve IOS uyumlu sqflite veritabanını kullanan hatırlatıcı uygulaması.
-- **Mobil Yapılacaklar Listesi Uygulaması:** Android ve IOS uyumlu Hive veritabanı kullanan yapılacaklar listesi uygulaması.
-- **Mobil Hesap Makinesi Uygulaması:** Android ve IOS uyumlu hesap makinesi uygulaması.
-- **Mobil E-Ticaret Uygulaması:** Android ve IOS uyumlu E-Ticaret ayakkabı satış mağazası uygulaması.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ertugrul-pakdamar&show_icons=true&locale=en" alt="ertugrul-pakdamar" /></p>
 
-### **Kotlin Projelerim**
-- **Mobil Zikirmatik:** Android için zikirmatik uygulaması.
-- **Mobil Ezan Vakti:** SQLite kütüphanesi ile seçilen ezan vaktinin o gün içerisindeki saatini gösteren uygulama.
-- **Zar Atma:** Android zar atma uygulaması.
-- **Benim Hakkımda:** Android benim hakkımda uygulaması.
-
-### **Python Projelerim**
-- **Yapılacaklar Listesi:** Komut satırı tabanlı yapılacaklar listesi uygulaması.
-- **Sudoku Çözücü:** Sudoku çözme algoritması.
-- **Hava Durumu:** OpenWeatherAPI ile hava durumu uygulaması.
-- **Kelime Tahmin Etme:** Kullanıcının harf tahminleriyle kelimeyi tahmin etmeye çalıştığı oyun.
-- **Tic-Tac-Toe Oyunu:** Tek veya iki kişi ile oynanabilen Tic Tac Toe oyunu.
-- **Fiyat Karşılaştırma:** Selenium kütüphanesi ile fiyat karşılaştırma programı.
-- **Gelir Gider Takibi:** Komut satırı tabanlı gelir ve gider takip programı.
-- **Web Botu:** İnternet üzerinden verilen komutları aratabilen yazılım.
-- **Sesli Asistan:** Speech Recognition ve Responsive Voice kütüphaneleri ile konuşma tanıma ve yanıt verme uygulaması.
-- **Yüz Tanıma Sistemi:** OpenCV ve dlib kütüphaneleri ile yüz tanıma yazılımı.
-
-### **Yapay Zeka Projelerim**
-#### **Makina Öğrenmesi Deneysel Projeler**
-- **Regression:** Linear Regression, Decision Tree Regression, Random Forest Regression
-- **Classification:** Decision Tree Classification, Random Forest Classification, K-Nearest Neighbour Classification, Support Vector Machine Classification
-- **Clustering:** K-Means Clustering, Hierarchial Cluestring
-
-### **Oyun Geliştirme Projelerim**
-- **Last Tree:** Unreal Engine 5 ile yapılmış 3D tower defense oyunu. (itch.io hesabımda mevcuttur.)
-- **There is Mars:** Unity ile yapılmış 2D uzay gemisi oyunu. (Novice Summer Jam Series: One-Button Input Jam 20.si)
-- **Super Mario Klon:** Eğitim amacıyla yapılmış Super Mario klonu.
-
-**Not:** Bu projelerin hepsi kendimi geliştirmek için yaptığım deneysel temel düzey projelerdir, her biri farklı bir yeteneğimi temsil etmektedir.
-
-## 🌐 Sosyal Medya
-
-- [Linktree](https://linktr.ee/ertugrulpakdamar)
-- [GitHub](https://github.com/Ertugrul-Pakdamar)
-- [LinkedIn](https://linkedin.com/in/ertugrul-pakdamar)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ertugrul-pakdamar&" alt="ertugrul-pakdamar" /></p>
