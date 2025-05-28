@@ -4,7 +4,11 @@
 
 ---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ertugrul-pakdamar" alt="ertugrul-pakdamar" /></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ertugrul-pakdamar&theme=darkhub&title=Commit,Issues,PullRequest,Repositories,Stars&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  </a>
+</p>
 
 ## 🧠 About Me
 
