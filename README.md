@@ -20,7 +20,7 @@
 ## 🛠️ Skills & Tools
 
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&logoColor=blue&labelColor=white)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=C%2B%2B&logoColor=blue&labelColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=C%2B%2B&logoColor=blue&labelColor=white)
 ![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=yellow&labelColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=blue&labelColor=white)
 ![Dart](https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart&logoColor=blue&labelColor=white)
