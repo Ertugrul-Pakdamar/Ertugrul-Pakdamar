@@ -15,7 +15,6 @@
 - 🔬 I'm currently working on [libft](https://github.com/Ertugrul-Pakdamar/42_ring0_libft).
 - 🎓 Ecole 42 student passionate about software engineering.
 - 💻 Developing projects in C, C++, Python, Bash, Flutter, and Kotlin.
-- 🔐 Special interest in cybersecurity and system programming.
 - 🌱 Continuously learning and evolving in the tech world.
 
 ---
