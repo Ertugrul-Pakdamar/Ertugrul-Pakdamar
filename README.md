@@ -6,7 +6,13 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ertugrul-pakdamar&theme=onedark&no-frame=false&title=Stars,Followers,Commits,PullRequest,Issues,Repositories&margin-w=15&margin-h=15" alt="ertugrul-pakdamar trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=ertugrul-pakdamar
+    &theme=flat&no-frame=true&column=6
+    &title=Followers,Stars,Commits,Repositories,PullRequest,Issues
+    &margin-w=15&margin-h=15
+    &rank=-C" 
+    alt="GitHub Trophies"
+    style="max-width: 100%; height: auto;" />
   </a>
 </p>
 
