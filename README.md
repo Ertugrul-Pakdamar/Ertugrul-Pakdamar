@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ertuğrul 👋</h1>
 
 <p align="center">
-  <img src="https://your-image-url.com/banner.png" alt="Welcome Banner" />
+  <img src="https://github.com/Ertugrul-Pakdamar/Ertugrul-Pakdamar/edit/main/img/banner.png" alt="Welcome Banner" />
 </p>
 
 ---
