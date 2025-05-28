@@ -20,17 +20,17 @@
 
 ## 🛠️ Skills & Tools
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&labelColor=white)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=C%2B%2B&logoColor=blue&labelColor=white)
+![Python](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python&logoColor=yellow&labelColor=blue)
+![Bash](https://img.shields.io/badge/Bash-grey?style=for-the-badge&logo=gnu-bash&logoColor=black&labelColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-lightblue?style=for-the-badge&logo=flutter&logoColor=blue&labelColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-orange?style=for-the-badge&logo=kotlin&logoColor=lightpurple&labelColor=white)
+![Dart](https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart&logoColor=blue&labelColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase&logoColor=orange&labelColor=white)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=darkorange&labelColor=white)
+![Linux](https://img.shields.io/badge/linux-grey?style=for-the-badge&logo=linux&logoColor=black&labelColor=white)
+![Vim](https://img.shields.io/badge/Vim-darkgreen?style=for-the-badge&logo=Vim&logoColor=darkgreen&labelColor=white)
 
 ---
 
