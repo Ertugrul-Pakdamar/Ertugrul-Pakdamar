@@ -52,7 +52,7 @@
 </p>
 
 <p align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com?user=ertugrul-pakdamar&theme=dark&background=161b22&ring=79ff97&fire=ff9800&currStreakLabel=ffffff&sideLabels=ececec&sideNums=ececec" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ertugrul-pakdamar&theme=blueberry&background=0d47a1&ring=ffffff&fire=ff9800&currStreakLabel=ffffff&sideLabels=ffffff&sideNums=ffffff" alt="GitHub Streak" />
 </p>
 
 ---
