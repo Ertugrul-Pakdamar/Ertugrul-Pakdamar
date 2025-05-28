@@ -44,15 +44,15 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ertugrul-pakdamar&layout=compact&theme=blueberry&title_color=ffffff&text_color=cbd5e1&bg_color=0d47a1&border_color=ffffff" alt="Top Languages" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ertugrul-pakdamar&layout=compact&theme=dark&title_color=ffffff&text_color=ececec&bg_color=161b22&border_color=30363d" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ertugrul-pakdamar&show_icons=true&theme=blueberry&title_color=ffffff&text_color=cbd5e1&icon_color=ffffff&bg_color=0d47a1&border_color=ffffff" alt="GitHub Stats" />
+	<img src="https://github-readme-stats.vercel.app/api?username=ertugrul-pakdamar&show_icons=true&theme=dark&title_color=ffffff&text_color=ececec&icon_color=79ff97&bg_color=161b22&border_color=30363d" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ertugrul-pakdamar&theme=blueberry&background=0d47a1&ring=ffffff&fire=ff9800&currStreakLabel=ffffff&sideLabels=ffffff&sideNums=ffffff" alt="GitHub Streak" />
+	<img src="https://github-readme-streak-stats.herokuapp.com?user=ertugrul-pakdamar&theme=dark&background=161b22&ring=79ff97&fire=ff9800&currStreakLabel=ffffff&sideLabels=ececec&sideNums=ececec" alt="GitHub Streak" />
 </p>
 
 ---
