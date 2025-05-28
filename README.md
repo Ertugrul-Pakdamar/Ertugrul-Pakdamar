@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ertuğrul</h1>
-<h3 align="center">A passionate frontend developer from Türkiye</h3>
+<h3 align="center">A passionate 42 Common Core Student from Türkiye</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ertugrul-pakdamar" alt="ertugrul-pakdamar" /></a> </p>
 
