@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ertuğrul 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Software+Engineer+%7C+Ecole+42+Student;Passionate+about+Flutter+%26+Kotlin;Always+Learning+and+Building+Projects" alt="Typing SVG" />
+  <img src="https://your-image-url.com/animated-banner.gif" alt="Animated Welcome Banner" />
 </p>
 
 ---
