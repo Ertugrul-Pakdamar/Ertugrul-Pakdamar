@@ -70,7 +70,7 @@
 	<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" />
 </a>
 <a href="https://linktr.ee/ertugrulpakdamar">
-	<img src="https://img.shields.io/badge/linktree-FFA116?style=flat-square&logo=linktree&logoColor=white" alt="LeetCode" />
+	<img src="https://img.shields.io/badge/Linktree-green?style=flat-square&logo=linktree&logoColor=green&labelColor=white" />
 </a>
 </p>
 
