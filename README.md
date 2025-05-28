@@ -20,15 +20,15 @@
 
 ## 🛠️ Skills & Tools
 
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&labelColor=white)
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&logoColor=blue&labelColor=white)
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=C%2B%2B&logoColor=blue&labelColor=white)
-![Python](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python&logoColor=yellow&labelColor=blue)
-![Bash](https://img.shields.io/badge/Bash-grey?style=for-the-badge&logo=gnu-bash&logoColor=black&labelColor=white)
+![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=yellow&labelColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-lightblue?style=for-the-badge&logo=flutter&logoColor=blue&labelColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-orange?style=for-the-badge&logo=kotlin&logoColor=lightpurple&labelColor=white)
 ![Dart](https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart&logoColor=blue&labelColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase&logoColor=orange&labelColor=white)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=darkorange&labelColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-orange?style=for-the-badge&logo=kotlin&logoColor=lightpurple&labelColor=white)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=Git&logoColor=darkorange&labelColor=white)
+![Bash](https://img.shields.io/badge/Bash-grey?style=for-the-badge&logo=gnu-bash&logoColor=black&labelColor=white)
 ![Linux](https://img.shields.io/badge/linux-grey?style=for-the-badge&logo=linux&logoColor=black&labelColor=white)
 ![Vim](https://img.shields.io/badge/Vim-darkgreen?style=for-the-badge&logo=Vim&logoColor=darkgreen&labelColor=white)
 
