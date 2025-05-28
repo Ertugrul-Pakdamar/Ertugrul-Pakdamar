@@ -26,7 +26,7 @@
 ![Dart](https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart&logoColor=blue&labelColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase&logoColor=orange&labelColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-orange?style=for-the-badge&logo=kotlin&logoColor=lightpurple&labelColor=white)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=Git&logoColor=orange&labelColor=white)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=Git&logoColor=red&labelColor=white)
 ![Bash](https://img.shields.io/badge/Bash-grey?style=for-the-badge&logo=gnu-bash&logoColor=black&labelColor=white)
 ![Linux](https://img.shields.io/badge/linux-grey?style=for-the-badge&logo=linux&logoColor=black&labelColor=white)
 ![Vim](https://img.shields.io/badge/Vim-darkgreen?style=for-the-badge&logo=Vim&logoColor=darkgreen&labelColor=white)
