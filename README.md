@@ -64,13 +64,13 @@
 	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://www.hackerrank.com/profile/ertu_pakdamar">
-	<img src="https://img.shields.io/badge/Hackerrank-darkgreen?style=flat-square&logo=Hackerrank&logoColor=darkgreen&labelColor=white" />
+	<img src="https://img.shields.io/badge/Hacker Rank-lightgreen?style=flat-square&logo=hackerrank&logoColor=lightgreen&labelColor=grey" />
 </a>
 <a href="https://leetcode.com/u/user2157wj/">
 	<img src="https://img.shields.io/badge/Leetcode-orange?style=flat-square&logo=leetcode&logoColor=lightorange&labelColor=white" />
 </a>
 <a href="https://linktr.ee/ertugrulpakdamar">
-	<img src="https://img.shields.io/badge/Linktree-green?style=flat-square&logo=linktree&logoColor=green&labelColor=white" />
+	<img src="https://img.shields.io/badge/linktree-darkgreen?style=flat-square&logo=linktree&logoColor=green&labelColor=white" />
 </a>
 </p>
 
