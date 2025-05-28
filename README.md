@@ -24,7 +24,7 @@
 ![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=yellow&labelColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=blue&labelColor=white)
 ![Dart](https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart&logoColor=blue&labelColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase&logoColor=orange&labelColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase&logoColor=red&labelColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-orange?style=for-the-badge&logo=kotlin&logoColor=lightpurple&labelColor=white)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=Git&logoColor=red&labelColor=white)
 ![Bash](https://img.shields.io/badge/Bash-grey?style=for-the-badge&logo=gnu-bash&logoColor=black&labelColor=white)
