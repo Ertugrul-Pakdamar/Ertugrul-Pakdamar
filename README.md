@@ -64,7 +64,7 @@
 	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://www.hackerrank.com/profile/ertu_pakdamar">
-	<img src="https://img.shields.io/badge/Hacker Rank-lightgreen?style=flat-square&logo=hackerrank&logoColor=lightgreen&labelColor=grey" />
+	<img src="https://img.shields.io/badge/HackerRank-0077B5?style=flat-square" alt="HackerRank" />
 </a>
 <a href="https://leetcode.com/u/user2157wj/">
 	<img src="https://img.shields.io/badge/LeetCode-orange?style=flat-square&logo=leetcode&logoColor=lightorange&labelColor=white" />
