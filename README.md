@@ -42,11 +42,17 @@
 ## 📈 GitHub Stats
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ertugrul-pakdamar&show_icons=true&locale=en&layout=compact" alt="ertugrul-pakdamar" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ertugrul-pakdamar&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ertugrul-pakdamar&show_icons=true&locale=en" alt="ertugrul-pakdamar" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ertugrul-pakdamar&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ertugrul-pakdamar&" alt="ertugrul-pakdamar" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ertugrul-pakdamar&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 
