@@ -11,7 +11,7 @@
 ## 🧠 About Me
 
 - 🔬 I'm currently working on [libft](https://github.com/Ertugrul-Pakdamar/42_ring0_libft).
-- 🎓 [42 İstanbul](https://42istanbul.com.tr/) student passionate about software engineering.
+- 🎓 [42 Istanbul](https://42istanbul.com.tr/) student passionate about software engineering.
 - 💻 Developing projects in C, C++, Python, Bash, Flutter, and Kotlin.
 - 🌱 Continuously learning and evolving in the tech world.
 
