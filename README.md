@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Ertuğrul</h1>
-
 <p align="center">
   <img src="https://github.com/Ertugrul-Pakdamar/Ertugrul-Pakdamar/blob/main/img/banner.png" alt="Welcome Banner" />
 </p>
