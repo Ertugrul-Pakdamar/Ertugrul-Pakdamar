@@ -69,6 +69,9 @@
 <a href="https://leetcode.com/u/user2157wj/">
 	<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" />
 </a>
+<a href="https://linktr.ee/ertugrulpakdamar">
+	<img src="https://img.shields.io/badge/linktree-FFA116?style=flat-square&logo=linktree&logoColor=white" alt="LeetCode" />
+</a>
 </p>
 
 ---
