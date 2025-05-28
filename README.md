@@ -6,6 +6,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ertugrul-pakdamar" alt="ertugrul-pakdamar" /></a> </p>
 
+---
+
 ## 🧠 About Me
 
 - 🔬 I'm currently working on [libft](https://github.com/Ertugrul-Pakdamar/42_ring0_libft).
@@ -41,7 +43,6 @@
 
 ## 📈 GitHub Stats
 
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ertugrul-pakdamar&layout=compact&theme=blueberry&title_color=ffffff&text_color=cbd5e1&bg_color=0d47a1&border_color=ffffff" alt="Top Languages" />
 </p>
@@ -53,7 +54,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ertugrul-pakdamar&theme=blueberry&background=0d47a1&ring=ffffff&fire=ff9800&currStreakLabel=ffffff&sideLabels=ffffff&sideNums=ffffff" alt="GitHub Streak" />
 </p>
-
 
 ---
 
