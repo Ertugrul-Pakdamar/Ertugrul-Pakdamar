@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ertuğrul 👋</h1>
 
 <p align="center">
-  <img src="https://your-image-url.com/animated-banner.gif" alt="Animated Welcome Banner" />
+  <img src="https://your-image-url.com/banner.png" alt="Welcome Banner" />
 </p>
 
 ---
