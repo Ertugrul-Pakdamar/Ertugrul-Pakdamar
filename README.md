@@ -67,10 +67,10 @@
 	<img src="https://img.shields.io/badge/Hacker Rank-lightgreen?style=flat-square&logo=hackerrank&logoColor=lightgreen&labelColor=grey" />
 </a>
 <a href="https://leetcode.com/u/user2157wj/">
-	<img src="https://img.shields.io/badge/Leetcode-orange?style=flat-square&logo=leetcode&logoColor=lightorange&labelColor=white" />
+	<img src="https://img.shields.io/badge/LeetCode-orange?style=flat-square&logo=leetcode&logoColor=lightorange&labelColor=white" />
 </a>
 <a href="https://linktr.ee/ertugrulpakdamar">
-	<img src="https://img.shields.io/badge/linktree-darkgreen?style=flat-square&logo=linktree&logoColor=green&labelColor=white" />
+	<img src="https://img.shields.io/badge/Linktree-darkgreen?style=flat-square&logo=linktree&logoColor=green&labelColor=white" />
 </a>
 </p>
 
