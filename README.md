@@ -10,7 +10,7 @@
 
 ## 🧠 About Me
 
-![42 İstanbul](https://img.shields.io/badge/Istanbul-blue?style=for-the-badge&logo=42&logoColor=black&labelColor=white)
+![42 İstanbul](https://img.shields.io/badge/Istanbul-blue?style=flat-square&logo=42&logoColor=black&labelColor=white)
 - 🔬 I'm currently working on [libft](https://github.com/Ertugrul-Pakdamar/42_ring0_libft).
 - 🎓 Ecole 42 student passionate about software engineering.
 - 💻 Developing projects in C, C++, Python, Bash, Flutter, and Kotlin.
