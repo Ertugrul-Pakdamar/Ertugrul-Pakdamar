@@ -12,7 +12,7 @@
 
 - 🔬 I'm currently working on [libft](https://github.com/Ertugrul-Pakdamar/42_ring0_libft).
 - 🎓 [42 Türkiye](https://42istanbul.com.tr/) student passionate about Computer Science.
-- 💻 Developing projects in C, Python, Bash, Flutter, and Kotlin.
+- 💻 Developing projects in C, Python, Flutter, and Kotlin.
 - 🌱 Continuously learning and evolving in the tech world.
 
 ---
