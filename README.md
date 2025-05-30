@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Ertugrul-Pakdamar/Ertugrul-Pakdamar/blob/main/img/banner.png" alt="Welcome Banner" />
+  <img src="https://github.com/Ertugrul-Pakdamar/Ertugrul-Pakdamar/blob/main/img/banner.png" alt="Banner" />
 </p>
 
 ---
