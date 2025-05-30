@@ -11,8 +11,8 @@
 ## 🧠 About Me
 
 - 🔬 I'm currently working on [libft](https://github.com/Ertugrul-Pakdamar/42_ring0_libft).
-- 🎓 [42 Türkiye](https://42istanbul.com.tr/) student passionate about software engineering.
-- 💻 Developing projects in C, C++, Python, Bash, Flutter, and Kotlin.
+- 🎓 [42 Türkiye](https://42istanbul.com.tr/) student passionate about Computer Science.
+- 💻 Developing projects in C, Python, Bash, Flutter, and Kotlin.
 - 🌱 Continuously learning and evolving in the tech world.
 
 ---
@@ -20,16 +20,16 @@
 ## 🛠️ Skills & Tools
 
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&logoColor=blue&labelColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=C%2B%2B&logoColor=blue&labelColor=white)
 ![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=yellow&labelColor=white)
+
 ![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=blue&labelColor=white)
 ![Dart](https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart&logoColor=blue&labelColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase&logoColor=red&labelColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-orange?style=for-the-badge&logo=kotlin&logoColor=lightpurple&labelColor=white)
+
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=Git&logoColor=red&labelColor=white)
 ![Bash](https://img.shields.io/badge/Bash-grey?style=for-the-badge&logo=gnu-bash&logoColor=black&labelColor=white)
 ![Linux](https://img.shields.io/badge/linux-grey?style=for-the-badge&logo=linux&logoColor=black&labelColor=white)
-![Vim](https://img.shields.io/badge/Vim-darkgreen?style=for-the-badge&logo=Vim&logoColor=darkgreen&labelColor=white)
 
 ---
 
