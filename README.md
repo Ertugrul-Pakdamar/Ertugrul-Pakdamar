@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://github.com/Ertugrul-Pakdamar/Ertugrul-Pakdamar/blob/main/img/banner.png" alt="Banner" />
-</p>
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ertugrul-Pakdamar/Ertugrul-Pakdamar/blob/main/img/banner-dark.png">
+ <img alt="Shows banner" src="https://github.com/Ertugrul-Pakdamar/Ertugrul-Pakdamar/blob/main/img/banner-light.png">
+</picture>
 
 ---
 
