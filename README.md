@@ -38,7 +38,8 @@
 
 | Project Name     | Description                                | Status         |
 |------------------|--------------------------------------------|----------------|
-| [**Libft**](https://github.com/Ertugrul-Pakdamar/42_ring0_libft)        | Rewriting the standard C library functions | 🔄 In Progress  |
+| [**Libft**](https://github.com/Ertugrul-Pakdamar/42_ring0_libft)        | Rewriting the standard C library functions | ✅ Completed    |
+
 
 ---
 
