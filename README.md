@@ -39,7 +39,7 @@
 | Project Name     | Description                                | Status         |
 |------------------|--------------------------------------------|----------------|
 | [**Libft**](https://github.com/Ertugrul-Pakdamar/42_ring0_libft)        | Rewriting the standard C library functions | ✅ Completed    |
-
+| [**Printf**](https://github.com/Ertugrul-Pakdamar/42_ring1_ft_printf)        | Rewriting the standard C printf function | 🔄 In Progress  |
 
 ---
 
