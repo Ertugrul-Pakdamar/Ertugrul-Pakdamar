@@ -40,6 +40,7 @@
 |------------------|--------------------------------------------|----------------|
 | [**Libft**](https://github.com/Ertugrul-Pakdamar/42_ring0_libft)        | Rewriting the standard C library functions | ✅ Completed    |
 | [**Printf**](https://github.com/Ertugrul-Pakdamar/42_ring1_printf)        | Rewriting the standard C printf function | 🔄 In Progress  |
+| [**get_next_line**](https://github.com/Ertugrul-Pakdamar/42_ring1_get_next_line)        | Writing a C function that gets next line from an fd when called | 🔄 In Progress  |
 
 ---
 
