@@ -11,7 +11,7 @@
 
 ## 🧠 About Me
 
-- 🔬 I'm currently working on [Printf](https://github.com/Ertugrul-Pakdamar/42_ring1_printf).
+- 🔬 I'm currently working on [get_next_line](https://github.com/Ertugrul-Pakdamar/42_ring1_get_next_line).
 - 🎓 [42 Türkiye](https://42istanbul.com.tr/) student passionate about Computer Science.
 - 💻 Developing projects in C, Python, Flutter, and Kotlin.
 - 🌱 Continuously learning and evolving in the tech world.
