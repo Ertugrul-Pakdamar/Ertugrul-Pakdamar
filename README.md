@@ -11,7 +11,7 @@
 
 ## 🧠 About Me
 
-- 🔬 I'm currently working on [fdf](https://github.com/Ertugrul-Pakdamar/42_ring2_fdf).
+- 🔬 I'm currently working on [push_swap](https://github.com/Ertugrul-Pakdamar/42_ring2_push_swap).
 - 🎓 [42 Türkiye](https://42istanbul.com.tr/) student passionate about Computer Science.
 - 💻 Developing projects in C, Python, Flutter, and Kotlin.
 - 🌱 Continuously learning and evolving in the tech world.
@@ -42,6 +42,7 @@
 | [**Printf**](https://github.com/Ertugrul-Pakdamar/42_ring1_printf)        | Rewriting the standard C printf function | ✅ Completed  |
 | [**get_next_line**](https://github.com/Ertugrul-Pakdamar/42_ring1_get_next_line)        | Writing a C function that gets next line from an fd when called | ✅ Completed |
 | [**fdf**](https://github.com/Ertugrul-Pakdamar/42_ring2_fdf)        | 42 FdF is a graphics project that draws a height map in isometric view. | ✅ Completed |
+| [**push_swap**](https://github.com/Ertugrul-Pakdamar/42_ring2_push_swap)        | A sorting algorithm implemented in C. | 🔄 In Progress |
 
 ---
 
