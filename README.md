@@ -11,7 +11,7 @@
 
 ## 🧠 About Me
 
-- 🔬 I'm currently working on [push_swap](https://github.com/Ertugrul-Pakdamar/42_ring2_push_swap).
+- 🔬 I'm currently working on [pipex](https://github.com/Ertugrul-Pakdamar/42_ring2_pipex).
 - 🎓 [42 Türkiye](https://42istanbul.com.tr/) student passionate about Computer Science.
 - 💻 Developing projects in C, Python, Flutter, and Kotlin.
 - 🌱 Continuously learning and evolving in the tech world.
