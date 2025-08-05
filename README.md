@@ -43,8 +43,9 @@
 | [**get_next_line**](https://github.com/Ertugrul-Pakdamar/42_ring1_get_next_line)        | Writing a C function that gets next line from an fd when called | ✅ Completed |
 | [**fdf**](https://github.com/Ertugrul-Pakdamar/42_ring2_fdf)        | A graphics project that draws a height map in isometric view. | ✅ Completed |
 | [**push_swap**](https://github.com/Ertugrul-Pakdamar/42_ring2_push_swap)        | A sorting algorithm implemented in C. | ✅ Completed |
-| [**pipex**](https://github.com/Ertugrul-Pakdamar/42_ring2_pipex)        | A simple Unix pipeline emulator using C. | 🔄 In Progress |
+| [**pipex**](https://github.com/Ertugrul-Pakdamar/42_ring2_pipex)        | A simple Unix pipeline emulator using C. | ✅ Completed |
 
+#🔄 In Progress 
 ---
 
 ## 📈 GitHub Stats
