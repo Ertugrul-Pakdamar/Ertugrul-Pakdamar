@@ -45,7 +45,6 @@
 | [**push_swap**](https://github.com/Ertugrul-Pakdamar/42_ring2_push_swap)        | A sorting algorithm implemented in C. | ✅ Completed |
 | [**pipex**](https://github.com/Ertugrul-Pakdamar/42_ring2_pipex)        | A simple Unix pipeline emulator using C. | ✅ Completed |
 
-#🔄 In Progress 
 ---
 
 ## 📈 GitHub Stats
