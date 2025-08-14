@@ -11,7 +11,7 @@
 
 ## 🧠 About Me
 
-- 🔬 I'm currently working on [Philosophers](https://github.com/Ertugrul-Pakdamar/42_ring3_philosophers).
+- 🔬 I'm currently working on [Minishell](https://https://github.com/VedatZeybek/42-minishell).
 - 🎓 [42 Türkiye](https://42istanbul.com.tr/) student passionate about Computer Science.
 - 💻 Developing projects in C, Python, Flutter, and Kotlin.
 - 🌱 Continuously learning and evolving in the tech world.
@@ -45,6 +45,7 @@
 | [**push_swap**](https://github.com/Ertugrul-Pakdamar/42_ring2_push_swap)        | A sorting algorithm implemented in C. | ✅ Completed |
 | [**pipex**](https://github.com/Ertugrul-Pakdamar/42_ring2_pipex)        | A simple Unix pipeline emulator using C. | ✅ Completed |
 | [**Philosophers**](https://github.com/Ertugrul-Pakdamar/42_ring3_philosophers)        | Philosophers with threads and mutexes. | 🔄️ In Progress |
+| [**Minishell**](https://https://github.com/VedatZeybek/42-minishell)        | Creating a simple shell | 🔄️ In Progress |
 
 ---
 
