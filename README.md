@@ -38,14 +38,27 @@
 
 | Project Name     | Description                                | Status         |
 |------------------|--------------------------------------------|----------------|
-| [**Libft**](https://github.com/Ertugrul-Pakdamar/42_ring0_libft)        | Rewriting the standard C library functions | ✅ Completed    |
-| [**Printf**](https://github.com/Ertugrul-Pakdamar/42_ring1_printf)        | Rewriting the standard C printf function | ✅ Completed  |
-| [**get_next_line**](https://github.com/Ertugrul-Pakdamar/42_ring1_get_next_line)        | Writing a C function that gets next line from an fd when called | ✅ Completed |
-| [**fdf**](https://github.com/Ertugrul-Pakdamar/42_ring2_fdf)        | A graphics project that draws a height map in isometric view. | ✅ Completed |
-| [**push_swap**](https://github.com/Ertugrul-Pakdamar/42_ring2_push_swap)        | A sorting algorithm implemented in C. | ✅ Completed |
-| [**pipex**](https://github.com/Ertugrul-Pakdamar/42_ring2_pipex)        | A simple Unix pipeline emulator using C. | ✅ Completed |
-| [**Philosophers**](https://github.com/Ertugrul-Pakdamar/42_ring3_philosophers)        | Philosophers with threads and mutexes. | 🔄️ In Progress |
-| [**Minishell**](https://github.com/VedatZeybek/42-minishell)        | Creating a simple shell. | 🔄️ In Progress |
+| [**Libft**](https://github.com/Ertugrul-Pakdamar/42_ring0_libft)					| Rewriting the standard C library functions | ✅ Completed |
+| [**Printf**](https://github.com/Ertugrul-Pakdamar/42_ring1_printf)        		| Rewriting the standard C printf function | ✅ Completed |
+| [**get_next_line**](https://github.com/Ertugrul-Pakdamar/42_ring1_get_next_line)	| Writing a C function that gets next line from an fd when called | ✅ Completed |
+| [**fdf**](https://github.com/Ertugrul-Pakdamar/42_ring2_fdf)        				| A graphics project that draws a height map in isometric view. | ✅ Completed |
+| [**push_swap**](https://github.com/Ertugrul-Pakdamar/42_ring2_push_swap)        	| A sorting algorithm implemented in C. | ✅ Completed |
+| [**pipex**](https://github.com/Ertugrul-Pakdamar/42_ring2_pipex)        			| A simple Unix pipeline emulator using C. | ✅ Completed |
+| [**Philosophers**](https://github.com/Ertugrul-Pakdamar/42_ring3_philosophers)	| Philosophers with threads and mutexes. | 🔄️ In Progress |
+| [**Minishell**](https://github.com/VedatZeybek/42-minishell)        				| Creating a simple shell. | 🔄️ In Progress |
+
+---
+
+## 💡 Personal Projects
+
+| Project Name     | Description                                | Status         |
+|------------------|--------------------------------------------|----------------|
+| [**Golang Library API**](https://github.com/Ertugrul-Pakdamar/Golang_Library_API)			| An API that allows you to access a libraries database | ✅ Completed |
+| [**Machine Learning**](https://github.com/Ertugrul-Pakdamar/Machine-Learning-Projects)	| Basic Machine Learning projects | ✅ Completed |
+| [**Mobile Calculator**](https://github.com/Ertugrul-Pakdamar/Flutter-Mobile-Calculator)	| Mobile calculator app with Flutter | ✅ Completed |
+| [**Mobile To-Do**](https://github.com/Ertugrul-Pakdamar/Flutter-Mobile-To-Do-App)			| Basic mobile task manager with Flutter | ✅ Completed |
+| [**Sudoku Solver Algorithm**](https://github.com/Ertugrul-Pakdamar/Sudoku-Solver)			| Recursive sudoku solver algorithm with Python | ✅ Completed |
+| [**Dice Roller**](https://github.com/Ertugrul-Pakdamar/Dice-Roller)						| Basic dice roller app with Kotlin | ✅ Completed |
 
 ---
 
