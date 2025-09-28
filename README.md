@@ -54,6 +54,7 @@
 
 | Project Name     | Description                                | Status         |
 |------------------|--------------------------------------------|----------------|
+| [**Obsero**](https://obserotimer.com)														| A pomodoro timer with detailed statistics | ✅ Completed |
 | [**Golang Library API**](https://github.com/Ertugrul-Pakdamar/Golang_Library_API)			| An API that allows you to access a libraries database | ✅ Completed |
 | [**Machine Learning**](https://github.com/Ertugrul-Pakdamar/Machine-Learning-Projects)	| Basic Machine Learning projects | ✅ Completed |
 | [**Mobile Calculator**](https://github.com/Ertugrul-Pakdamar/Flutter-Mobile-Calculator)	| Mobile calculator app with Flutter | ✅ Completed |
