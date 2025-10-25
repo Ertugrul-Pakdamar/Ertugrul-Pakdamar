@@ -5,10 +5,6 @@
 
 ---
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ertugrul-pakdamar" alt="ertugrul-pakdamar"/></a> </p>
-
----
-
 ## Hi — I'm Ertuğrul 👋
 
 I'm a Computer Science student at 42 Türkiye. I enjoy system programming, algorithms, and building mobile & backend projects. I like learning new technologies and contributing to team projects.
