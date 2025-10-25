@@ -49,14 +49,15 @@ Note: See each repository for project-specific tech stacks.
 
 ## 💡 Personal Projects
 
-| Project                                                                                     | Short description                |     Status     |
-| ------------------------------------------------------------------------------------------- | -------------------------------- | :------------: |
-| [Obsero](https://obserotimer.com)                                                           | Pomodoro timer with analytics    | 🔄 In Progress |
-| [Golang Library API](https://github.com/Ertugrul-Pakdamar/Golang_Library_API)               | REST API for library dataset     |  ✅ Completed  |
-| [Flutter Mobile Calculator](https://github.com/Ertugrul-Pakdamar/Flutter-Mobile-Calculator) | Simple mobile calculator app     |  ✅ Completed  |
-| [Flutter Mobile To-Do](https://github.com/Ertugrul-Pakdamar/Flutter-Mobile-To-Do-App)       | Basic task manager app           |  ✅ Completed  |
-| [Sudoku Solver](https://github.com/Ertugrul-Pakdamar/Sudoku-Solver)                         | Recursive Sudoku solver (Python) |  ✅ Completed  |
-| [Dice Roller](https://github.com/Ertugrul-Pakdamar/Dice-Roller)                             | Kotlin dice roller app           |  ✅ Completed  |
+| Project                                                                                     | Short description                                        |     Status     |
+| ------------------------------------------------------------------------------------------- | -------------------------------------------------------- | :------------: |
+| [Obsero](https://obserotimer.com)                                                           | Pomodoro timer with analytics                            | 🔄 In Progress |
+| [Golang Library API](https://github.com/Ertugrul-Pakdamar/Golang_Library_API)               | REST API for library dataset                             |  ✅ Completed  |
+| [Flutter Mobile Calculator](https://github.com/Ertugrul-Pakdamar/Flutter-Mobile-Calculator) | Simple mobile calculator app                             |  ✅ Completed  |
+| [Flutter Mobile To-Do](https://github.com/Ertugrul-Pakdamar/Flutter-Mobile-To-Do-App)       | Basic task manager app                                   |  ✅ Completed  |
+| [Sudoku Solver](https://github.com/Ertugrul-Pakdamar/Sudoku-Solver)                         | Recursive Sudoku solver (Python)                         |  ✅ Completed  |
+| [Dice Roller](https://github.com/Ertugrul-Pakdamar/Dice-Roller)                             | Kotlin dice roller app                                   |  ✅ Completed  |
+| [Hacker-Rank Solutions](https://github.com/Ertugrul-Pakdamar/Hacker-Rank)                   | Collection of HackerRank solutions and practice problems |  ✅ Completed  |
 
 More projects and details are available on my profile.
 
