@@ -13,7 +13,7 @@
 
 - 🔬 I'm currently working on [Minishell](https://github.com/VedatZeybek/42-minishell).
 - 🎓 [42 Türkiye](https://42istanbul.com.tr/) student passionate about Computer Science.
-- 💻 Developing projects in C, Python, Flutter, and Kotlin.
+- 💻 Developing projects in C, Python, Flutter, Golang and ReactJS.
 - 🌱 Continuously learning and evolving in the tech world.
 
 ---
