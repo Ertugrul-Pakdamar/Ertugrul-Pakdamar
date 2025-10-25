@@ -1,100 +1,80 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ertugrul-Pakdamar/Ertugrul-Pakdamar/blob/main/img/banner-dark.png">
- <img alt="Shows banner" src="https://github.com/Ertugrul-Pakdamar/Ertugrul-Pakdamar/blob/main/img/banner-light.png">
+	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ertugrul-Pakdamar/Ertugrul-Pakdamar/blob/main/img/banner-dark.png">
+	<img alt="banner" src="https://github.com/Ertugrul-Pakdamar/Ertugrul-Pakdamar/blob/main/img/banner-light.png">
 </picture>
 
 ---
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ertugrul-pakdamar" alt="ertugrul-pakdamar" /></a> </p>
+## Hi — I'm Ertuğrul 👋
+
+I'm a passionate Computer Science student at 42 Türkiye. I enjoy system programming, algorithms and building both mobile and backend projects. I like learning new technologies and contributing in team environments.
+
+In short, I work with C, Python, Flutter/Dart, Go and React. I have a particular interest in system-level programming (Unix, Bash, pthreads) and data structures.
 
 ---
 
-## 🧠 About Me
+## Skills
 
-- 🔬 I'm currently working on [Minishell](https://github.com/VedatZeybek/42-minishell).
-- 🎓 [42 Türkiye](https://42istanbul.com.tr/) student passionate about Computer Science.
-- 💻 Developing projects in C, Python, Flutter, Golang and ReactJS.
-- 🌱 Continuously learning and evolving in the tech world.
+- Languages: C, Python, Go, Dart, JavaScript (React), Kotlin (basic)
+- Mobile: Flutter & Dart
+- Systems & Tools: Linux, Bash, Git, Make, Valgrind
+- Databases & Cloud: Firebase (basics), REST API design
+- Other: Algorithms & data structures, multithreading, project organization
 
----
-
-## 🛠️ Skills & Tools
-
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&logoColor=blue&labelColor=white)
-![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=yellow&labelColor=white)
-
-![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=blue&labelColor=white)
-![Dart](https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart&logoColor=blue&labelColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase&logoColor=red&labelColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-orange?style=for-the-badge&logo=kotlin&logoColor=lightpurple&labelColor=white)
-
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=Git&logoColor=red&labelColor=white)
-![Bash](https://img.shields.io/badge/Bash-grey?style=for-the-badge&logo=gnu-bash&logoColor=black&labelColor=white)
-![Linux](https://img.shields.io/badge/linux-grey?style=for-the-badge&logo=linux&logoColor=black&labelColor=white)
+Note: The list above is a concise overview — see individual repositories for the exact tech used in each project.
 
 ---
 
-## 📚 42 Türkiye Projects
+## Selected 42 Projects
 
-| Project Name     | Description                                | Status         |
-|------------------|--------------------------------------------|----------------|
-| [**C Piscine**](https://github.com/Ertugrul-Pakdamar/42-Piscine)					| 42 Türkiye C Piscine projects | ✅ Completed |
-| [**Libft**](https://github.com/Ertugrul-Pakdamar/42_ring0_libft)					| Rewriting the standard C library functions | ✅ Completed |
-| [**Printf**](https://github.com/Ertugrul-Pakdamar/42_ring1_printf)        		| Rewriting the standard C printf function | ✅ Completed |
-| [**get_next_line**](https://github.com/Ertugrul-Pakdamar/42_ring1_get_next_line)	| Writing a C function that gets next line from an fd when called | ✅ Completed |
-| [**fdf**](https://github.com/Ertugrul-Pakdamar/42_ring2_fdf)        				| A graphics project that draws a height map in isometric view. | ✅ Completed |
-| [**push_swap**](https://github.com/Ertugrul-Pakdamar/42_ring2_push_swap)        	| A sorting algorithm implemented in C. | ✅ Completed |
-| [**pipex**](https://github.com/Ertugrul-Pakdamar/42_ring2_pipex)        			| A simple Unix pipeline emulator using C. | ✅ Completed |
-| [**Philosophers**](https://github.com/Ertugrul-Pakdamar/42_ring3_philosophers)	| Philosophers with threads and mutexes. | ✅ Completed |
-| [**Minishell**](https://github.com/VedatZeybek/42-minishell)        				| Creating a simple shell. | 🔄️ In Progress |
+Below are selected projects from the 42 curriculum with short descriptions. Follow the links for details.
 
----
-
-## 💡 Personal Projects
-
-| Project Name     | Description                                | Status         |
-|------------------|--------------------------------------------|----------------|
-| [**Obsero**](https://obserotimer.com)														| A pomodoro timer with detailed statistics | 🔄️ In Progress |
-| [**Golang Library API**](https://github.com/Ertugrul-Pakdamar/Golang_Library_API)			| An API that allows you to access a libraries database | ✅ Completed |
-| [**Machine Learning**](https://github.com/Ertugrul-Pakdamar/Machine-Learning-Projects)	| Basic Machine Learning projects | ✅ Completed |
-| [**Mobile Calculator**](https://github.com/Ertugrul-Pakdamar/Flutter-Mobile-Calculator)	| Mobile calculator app with Flutter | ✅ Completed |
-| [**Mobile To-Do**](https://github.com/Ertugrul-Pakdamar/Flutter-Mobile-To-Do-App)			| Basic mobile task manager with Flutter | ✅ Completed |
-| [**Sudoku Solver Algorithm**](https://github.com/Ertugrul-Pakdamar/Sudoku-Solver)			| Recursive sudoku solver algorithm with Python | ✅ Completed |
-| [**Dice Roller**](https://github.com/Ertugrul-Pakdamar/Dice-Roller)						| Basic dice roller app with Kotlin | ✅ Completed |
+- C Piscine — Core C exercises and problem solving. (https://github.com/Ertugrul-Pakdamar/42-Piscine)
+- Libft — Reimplementation of common C standard library functions.
+- get_next_line — Function that reads the next line from a file descriptor.
+- ft_printf — Custom implementation of printf.
+- push_swap — Sorting under constrained operations.
+- pipex — Small project that emulates Unix pipe behavior.
+- philosophers — Dining philosophers problem using threads and mutexes.
+- fdf — Isometric height-map renderer.
+- minishell — A simple Unix shell (in progress).
 
 ---
 
-## 📈 GitHub Stats
+## Personal Projects (Highlights)
+
+- Obsero — Pomodoro timer with extended statistics (in progress). (https://obserotimer.com)
+- Golang Library API — A REST API to manage a libraries dataset.
+- Flutter Mobile Apps — Calculator, To-Do apps and small utilities.
+- Machine Learning — Basic ML experiments and projects in Python.
+
+See my repositories for full details and source code.
+
+---
+
+## GitHub Stats
+
+My profile languages, contributions and stats are shown with the cards below.
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ertugrul-pakdamar&layout=compact&theme=dark&title_color=ffffff&text_color=ececec&bg_color=161b22&border_color=30363d" alt="Top Languages" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ertugrul-pakdamar&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=ertugrul-pakdamar&show_icons=true&theme=dark&title_color=ffffff&text_color=ececec&icon_color=79ff97&bg_color=161b22&border_color=30363d" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-	<img src="https://streak-stats.demolab.com?user=ertugrul-pakdamar&theme=dark&background=161b22&ring=79ff97&fire=ff9800&currStreakLabel=ffffff&sideLabels=ececec&sideNums=ececec" alt="GitHub Streak" />
+	<img src="https://github-readme-stats.vercel.app/api?username=ertugrul-pakdamar&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## Contact
 
-<p align="center">
-<a href="https://www.linkedin.com/in/ertu%C4%9Frul-pakdamar/">
-	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://www.hackerrank.com/profile/ertu_pakdamar">
-	<img src="https://img.shields.io/badge/Hacker Rank-darkgreen?style=flat-square&labelColor=gre" />
-</a>
-<a href="https://leetcode.com/u/user2157wj/">
-	<img src="https://img.shields.io/badge/LeetCode-orange?style=flat-square&logo=leetcode&logoColor=lightorange&labelColor=white" />
-</a>
-<a href="https://linktr.ee/ertugrulpakdamar">
-	<img src="https://img.shields.io/badge/Linktree-darkgreen?style=flat-square&logo=linktree&logoColor=green&labelColor=white" />
-</a>
-</p>
+You can find / contact me through:
+
+- LinkedIn: https://www.linkedin.com/in/ertu%C4%9Frul-pakdamar/
+- HackerRank: https://www.hackerrank.com/profile/ertu_pakdamar
+- LeetCode: https://leetcode.com/u/user2157wj/
+- Linktree (all links): https://linktr.ee/ertugrulpakdamar
 
 ---
+
+If you want extra sections in this README (CV, education, featured project demo, English/other layout changes), tell me what to add and I'll update it.
