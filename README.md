@@ -37,12 +37,12 @@ Note: See each repository for project-specific tech stacks.
 | ---------------------------------------------------------------------------- | ------------------------------------------------------- | :------------: |
 | [C Piscine](https://github.com/Ertugrul-Pakdamar/42-Piscine)                 | Core C exercises and problem solving                    |  ✅ Completed  |
 | [Libft](https://github.com/Ertugrul-Pakdamar/42_ring0_libft)                 | Reimplementation of common C standard library functions |  ✅ Completed  |
-| [get_next_line](https://github.com/Ertugrul-Pakdamar/42_ring1_get_next_line) | Function to read the next line from an FD               |  ✅ Completed  |
 | [ft_printf](https://github.com/Ertugrul-Pakdamar/42_ring1_printf)            | Custom printf implementation                            |  ✅ Completed  |
+| [get_next_line](https://github.com/Ertugrul-Pakdamar/42_ring1_get_next_line) | Function to read the next line from an FD               |  ✅ Completed  |
+| [fdf](https://github.com/Ertugrul-Pakdamar/42_ring2_fdf)                     | Isometric height-map renderer                           |  ✅ Completed  |
 | [push_swap](https://github.com/Ertugrul-Pakdamar/42_ring2_push_swap)         | Sorting with limited operations                         |  ✅ Completed  |
 | [pipex](https://github.com/Ertugrul-Pakdamar/42_ring2_pipex)                 | Emulates basic Unix pipelines                           |  ✅ Completed  |
 | [philosophers](https://github.com/Ertugrul-Pakdamar/42_ring3_philosophers)   | Dining philosophers with threads & mutexes              |  ✅ Completed  |
-| [fdf](https://github.com/Ertugrul-Pakdamar/42_ring2_fdf)                     | Isometric height-map renderer                           |  ✅ Completed  |
 | [minishell](https://github.com/VedatZeybek/42-minishell)                     | Simple Unix shell (in progress)                         | 🔄 In Progress |
 
 ---
