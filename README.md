@@ -45,7 +45,7 @@
 | [**fdf**](https://github.com/Ertugrul-Pakdamar/42_ring2_fdf)        				| A graphics project that draws a height map in isometric view. | ✅ Completed |
 | [**push_swap**](https://github.com/Ertugrul-Pakdamar/42_ring2_push_swap)        	| A sorting algorithm implemented in C. | ✅ Completed |
 | [**pipex**](https://github.com/Ertugrul-Pakdamar/42_ring2_pipex)        			| A simple Unix pipeline emulator using C. | ✅ Completed |
-| [**Philosophers**](https://github.com/Ertugrul-Pakdamar/42_ring3_philosophers)	| Philosophers with threads and mutexes. | 🔄️ In Progress |
+| [**Philosophers**](https://github.com/Ertugrul-Pakdamar/42_ring3_philosophers)	| Philosophers with threads and mutexes. | ✅ Completed |
 | [**Minishell**](https://github.com/VedatZeybek/42-minishell)        				| Creating a simple shell. | 🔄️ In Progress |
 
 ---
