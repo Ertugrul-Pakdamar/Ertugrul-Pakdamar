@@ -20,7 +20,7 @@ Quick summary: C, Python, Flutter/Dart, Go, and React. Focus areas: system-level
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-02569B?style=for-the-badge&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/React-4dafc9?style=for-the-badge&logo=react&logoColor=white)
 
 - Languages: C, Python, Go, Dart, JavaScript (React), Kotlin (basic)
 - Mobile: Flutter & Dart
