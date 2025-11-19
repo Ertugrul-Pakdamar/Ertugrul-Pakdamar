@@ -46,8 +46,8 @@ I am a Software Developer based in Istanbul and a student at **42 Türkiye (Ecol
 * **Key Features:** Real-time tracking, statistical graphs, background service management.
 * **Status:** 🚀 Live on Web
 
-### 2. [Nexus PM (Upcoming)](https://github.com/Ertugrul-Pakdamar)
-> *An Enterprise-level Project Management SaaS Dashboard.*
+### 2. [Formexus (Upcoming)](https://github.com/Ertugrul-Pakdamar)
+> *An Online Forms Platform.*
 * **Tech Stack:** **React (Vite)**, **Golang (Fiber)**, **MongoDB**, **JWT Auth**.
 * **Architecture:** RESTful Microservice-ready architecture with clean code principles.
 * **Status:** 🏗️ *Under Construction (The Training Arc)*
