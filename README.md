@@ -47,7 +47,7 @@ I am a Software Developer based in Istanbul and a student at **42 Türkiye (Ecol
 * **Status:** 🚀 Live on Web
 
 ### 2. [Formexus](https://github.com/Ertugrul-Pakdamar/Formexus.git)
-> *An Online Forms Platform.*
+> *Modern, Powerful & Intelligent Form Builder Platform*
 * **Tech Stack:** **React (Vite)**, **Golang (Fiber)**, **MongoDB**, **JWT Auth**.
 * **Architecture:** RESTful Microservice-ready architecture with clean code principles.
 * **Status:** 🏗️ *Under Construction (The Training Arc)*
