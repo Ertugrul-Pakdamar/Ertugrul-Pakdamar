@@ -44,13 +44,13 @@ I am a Software Developer based in Istanbul and a student at **42 Türkiye (Ecol
 > *A comprehensive productivity tool combining Pomodoro technique with deep analytics.*
 * **Tech Stack:** Flutter, Dart, Firebase, Local Storage.
 * **Key Features:** Real-time tracking, statistical graphs, background service management.
-* **Status:** 🚀 Live on Web
+* **Status:** 🚀 [Live on Web](https://obserotimer.com)
 
 ### 2. [Formexus](https://github.com/Ertugrul-Pakdamar/Formexus.git)
 > *Modern, Powerful & Intelligent Form Builder Platform*
 * **Tech Stack:** **React (Vite)**, **Golang (Fiber)**, **MongoDB**, **JWT Auth**.
 * **Architecture:** RESTful Microservice-ready architecture with clean code principles.
-* **Status:** 🏗️ *Under Construction (The Training Arc)*
+* **Status:** 🚀 [Live on Web](https://formexus.onrender.com)
 
 ### 3. [Golang Library API](https://github.com/Ertugrul-Pakdamar/Golang_Library_API)
 > *A robust REST API designed for high-performance data handling.*
