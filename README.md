@@ -69,12 +69,12 @@ I am a Software Developer based in Istanbul and a student at **42 Türkiye (Ecol
 
 | Project | Focus Area | Status |
 | :--- | :--- | :---: |
-| **Minishell** | Creating a bash-like shell (Parsing, Processes, Signals) | ✅ |
-| **Philosophers** | Concurrency, Threads, Mutexes, Deadlock prevention | ✅ |
-| **Push_swap** | Complex Sorting Algorithms, Complexity Analysis (Big O) | ✅ |
-| **FdF** | Graphics programming, Event handling, Matrix transformations | ✅ |
-| **Pipex** | Unix Pipes, I/O Redirection, File Descriptors | ✅ |
-| **Libft & Printf** | Re-writing Standard C Libraries from scratch | ✅ |
+| [**Minishell**](https://github.com/VedatZeybek/42-minishell) | Creating a bash-like shell (Parsing, Processes, Signals) | ✅ |
+| [**Philosophers**](https://github.com/Ertugrul-Pakdamar/42_ring3_philosophers) | Concurrency, Threads, Mutexes, Deadlock prevention | ✅ |
+| [**Push_swap**](https://github.com/Ertugrul-Pakdamar/42_ring2_push_swap) | Complex Sorting Algorithms, Complexity Analysis (Big O) | ✅ |
+| [**FdF**](https://github.com/Ertugrul-Pakdamar/42_ring2_fdf) | Graphics programming, Event handling, Matrix transformations | ✅ |
+| [**Pipex**](https://github.com/Ertugrul-Pakdamar/42_ring2_pipex) | Unix Pipes, I/O Redirection, File Descriptors | ✅ |
+| [**Libft](https://github.com/Ertugrul-Pakdamar/42_ring0_libft) & [Printf**](https://github.com/Ertugrul-Pakdamar/42_ring1_printf) | Re-writing Standard C Libraries from scratch | ✅ |
 
 </details>
 
