@@ -74,7 +74,7 @@ I am a Software Developer based in Istanbul and a student at **42 Türkiye (Ecol
 | [**Push_swap**](https://github.com/Ertugrul-Pakdamar/42_ring2_push_swap) | Complex Sorting Algorithms, Complexity Analysis (Big O) | ✅ |
 | [**FdF**](https://github.com/Ertugrul-Pakdamar/42_ring2_fdf) | Graphics programming, Event handling, Matrix transformations | ✅ |
 | [**Pipex**](https://github.com/Ertugrul-Pakdamar/42_ring2_pipex) | Unix Pipes, I/O Redirection, File Descriptors | ✅ |
-| [**Libft](https://github.com/Ertugrul-Pakdamar/42_ring0_libft) & [Printf**](https://github.com/Ertugrul-Pakdamar/42_ring1_printf) | Re-writing Standard C Libraries from scratch | ✅ |
+| **[Libft](https://github.com/Ertugrul-Pakdamar/42_ring0_libft) & [Printf](https://github.com/Ertugrul-Pakdamar/42_ring1_printf)** | Re-writing Standard C Libraries from scratch | ✅ |
 
 </details>
 
