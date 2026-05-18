@@ -31,7 +31,7 @@ I am a Software Developer based in Istanbul and a student at **42 Türkiye (Ecol
 
 | **Domain** | **Technologies** |
 | :---             | :--- |
-| **Backend** | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![RestAPI](https://img.shields.io/badge/-REST_API-005571?style=flat&logo=postman&logoColor=white) |
+| **Backend** | ![Spring](https://img.shields.io/badge/-Spring-00AA58?style=flat&logo=spring&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![RestAPI](https://img.shields.io/badge/-REST_API-005571?style=flat&logo=postman&logoColor=white) |
 | **Frontend** | ![React](https://img.shields.io/badge/-React-4dafc9?style=flat&logo=react&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
 | **Mobile** | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-6834EB?style=flat&logo=kotlin&logoColor=white) |
 | **Systems/DevOps**| ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white) |
