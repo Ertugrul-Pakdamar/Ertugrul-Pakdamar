@@ -99,8 +99,12 @@ Projects from the 42 core curriculum, focused on algorithms, memory management, 
 | [**FdF**](https://github.com/Ertugrul-Pakdamar/42_ring2_fdf) | Graphics programming, event handling, matrix transforms | ✅ |
 | [**Pipex**](https://github.com/Ertugrul-Pakdamar/42_ring2_pipex) | Unix pipes, I/O redirection, file descriptors | ✅ |
 | [**Libft**](https://github.com/Ertugrul-Pakdamar/42_ring0_libft) & [**Printf**](https://github.com/Ertugrul-Pakdamar/42_ring1_printf) | Rewriting standard C libraries from scratch | ✅ |
+
+---
  
 <div align="center">
+
+[![GitHub Stats](https://git-banner-backend.onrender.com/banner/Ertugrul-Pakdamar?type=stats&format=twitter&theme=dark)](https://github.com/Ertugrul-Pakdamar)
  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00ADD8&height=100&section=footer" width="100%"/>
 </div>
