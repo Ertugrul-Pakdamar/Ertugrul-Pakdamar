@@ -21,8 +21,7 @@ Currently focusing on **React, Go, and Cloud Native Architectures**.
 
 I am a Software Developer based in Istanbul and a student at **42 Türkiye (Ecole 42)**. My journey started with low-level system programming (C, Unix), which gave me a deep understanding of how computers work. Now, I leverage that foundation to build modern, efficient, and user-centric web/mobile solutions.
 
-* 🌱 **Current Focus:** Mastering Advanced React patterns & Go Microservices.
-* 🔭 **Working on:** Building a SaaS-ready Project Management System.
+* 🌱 **Current Focus:** Mastering Advanced deterministic C frameworks for embeded systems.
 * ⚡ **Philosophy:** "Clean code, scalable architecture, and pixel-perfect UI."
 
 ---
@@ -40,22 +39,20 @@ I am a Software Developer based in Istanbul and a student at **42 Türkiye (Ecol
 
 ## 🏆 Featured Projects (The "Real World" Stuff)
 
-### 1. [Formexus](https://github.com/Ertugrul-Pakdamar/Formexus.git)
-> *Modern, Powerful & Intelligent Form Builder Platform*
-* **Tech Stack:** **React (Vite)**, **Golang (Fiber)**, **MongoDB**, **JWT Auth**.
-* **Architecture:** RESTful Microservice-ready architecture with clean code principles.
-* **Status:** 🚀 [Live on Web](https://formexus.net)
+### 1. [libmem](https://github.com/Ertugrul-Pakdamar/libmem)
+> *Deterministic Zero-Malloc memory managment library.*
+* **Tech Stack:** **Bare C**.
+* **Status:** 🤝 [Open for contributing](https://github.com/Ertugrul-Pakdamar/libmem)
 
-### 2. [Obsero - Focus & Analytics](https://obserotimer.com)
-> *A comprehensive productivity tool combining Pomodoro technique with deep analytics.*
-* **Tech Stack:** Flutter, Dart, Firebase, Local Storage.
-* **Key Features:** Real-time tracking, statistical graphs, background service management.
-* **Status:** 🚀 [Live on Web](https://obserotimer.com)
+### 2. [libqueue](https://github.com/Ertugrul-Pakdamar/libqueue)
+> *Powerful, SPSC queue library with [libmem](https://github.com/Ertugrul-Pakdamar/libmem).*
+* **Tech Stack:** **Bare C**.
+* **Status:** 🤝 [Open for contributing](https://github.com/Ertugrul-Pakdamar/libqueue)
 
-### 3. [Golang Library API](https://github.com/Ertugrul-Pakdamar/Golang_Library_API)
-> *A robust REST API designed for high-performance data handling.*
-* **Tech Stack:** Go (Golang), Mux, JSON.
-* **Highlight:** Demonstrates strict typing, concurrency patterns, and API design best practices.
+### 3. [AegisLink](https://github.com/Ertugrul-Pakdamar/AegisLink)
+> *Deterministic data transfer protocol based on UDP and compatible with [libqueue](https://github.com/Ertugrul-Pakdamar/libqueue).*
+* **Tech Stack:** **Bare C**.
+* **Status:** 🤝 [Open for contributing](https://github.com/Ertugrul-Pakdamar/AegisLink)
 
 ---
 
