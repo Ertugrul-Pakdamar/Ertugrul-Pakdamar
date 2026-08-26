@@ -5,87 +5,102 @@
 
 <div align="center">
 
-# Hi, I'm Ertuğrul Pakdamar 👋
-### Software Developer | Fullstack & Mobile Enthusiast
+# Ertuğrul Pakdamar
 
-I build scalable web systems and high-performance mobile applications. 
-Currently focusing on **React, Go, and Cloud Native Architectures**.
+### Embedded Systems C Developer
 
-[Linkedin](https://www.linkedin.com/in/ertugrul-pakdamar/) • [Portfolio/Linktree](https://linktr.ee/ertugrulpakdamar) • [Email](mailto:ertu.pakdamar@gmail.com)
+Building deterministic, zero-malloc system software for resource-constrained and real-time environments.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ertugrul-pakdamar/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/ertugrulpakdamar)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ertu.pakdamar@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 About Me
+### About
 
-I am a Software Developer based in Istanbul and a student at **42 Türkiye (Ecole 42)**. My journey started with low-level system programming (C, Unix), which gave me a deep understanding of how computers work. Now, I leverage that foundation to build modern, efficient, and user-centric web/mobile solutions.
+Software developer based in Istanbul, currently a student at **42 Türkiye (École 42)**. My path started with low-level system programming in C and Unix, which gave me a deep understanding of how computers actually work under the hood. I now apply that foundation to writing production-grade C libraries for embedded and real-time systems.
 
-* 🌱 **Current Focus:** Mastering Advanced deterministic C frameworks for embeded systems.
-* ⚡ **Philosophy:** "Clean code, scalable architecture, and pixel-perfect UI."
-
----
-
-## 🛠️ Tech Stack & Arsenal
-
-| **Domain** | **Technologies** |
-| :---             | :--- |
-| **Backend** | ![Spring](https://img.shields.io/badge/-Spring-00AA58?style=flat&logo=spring&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![RestAPI](https://img.shields.io/badge/-REST_API-005571?style=flat&logo=postman&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-4dafc9?style=flat&logo=react&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| **Mobile** | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-6834EB?style=flat&logo=kotlin&logoColor=white) |
-| **Systems/DevOps**| ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white) |
+- **Current focus:** deterministic C frameworks and zero-malloc memory management for embedded targets
+- **Approach:** predictable time complexity, minimal dependencies, portable and testable C
 
 ---
 
-## 🏆 Featured Projects (The "Real World" Stuff)
-
-### 1. [libmem](https://github.com/Ertugrul-Pakdamar/libmem)
-> *Deterministic Zero-Malloc memory managment library.*
-* **Tech Stack:** **Bare C**.
-* **Status:** 🤝 [Open for contributing](https://github.com/Ertugrul-Pakdamar/libmem)
-
-### 2. [libqueue](https://github.com/Ertugrul-Pakdamar/libqueue)
-> *Powerful, SPSC queue library with [libmem](https://github.com/Ertugrul-Pakdamar/libmem).*
-* **Tech Stack:** **Bare C**.
-* **Status:** 🤝 [Open for contributing](https://github.com/Ertugrul-Pakdamar/libqueue)
-
-### 3. [AegisLink](https://github.com/Ertugrul-Pakdamar/AegisLink)
-> *Deterministic data transfer protocol based on UDP and compatible with [libqueue](https://github.com/Ertugrul-Pakdamar/libqueue).*
-* **Tech Stack:** **Bare C**.
-* **Status:** 🤝 [Open for contributing](https://github.com/Ertugrul-Pakdamar/AegisLink)
-
----
-
-## 🏛️ 42 Türkiye — CS Foundations
-
-*These projects represent my journey through the rigorous 42 curriculum, focusing on algorithms, memory management, and system architecture.*
-
-<details>
-<summary><b>Click to see low-level system projects (C / Unix)</b></summary>
-<br>
-
-| Project | Focus Area | Status |
-| :--- | :--- | :---: |
-| [**Minishell**](https://github.com/VedatZeybek/42-minishell) | Creating a bash-like shell (Parsing, Processes, Signals) | ✅ |
-| [**Philosophers**](https://github.com/Ertugrul-Pakdamar/42_ring3_philosophers) | Concurrency, Threads, Mutexes, Deadlock prevention | ✅ |
-| [**Push_swap**](https://github.com/Ertugrul-Pakdamar/42_ring2_push_swap) | Complex Sorting Algorithms, Complexity Analysis (Big O) | ✅ |
-| [**FdF**](https://github.com/Ertugrul-Pakdamar/42_ring2_fdf) | Graphics programming, Event handling, Matrix transformations | ✅ |
-| [**Pipex**](https://github.com/Ertugrul-Pakdamar/42_ring2_pipex) | Unix Pipes, I/O Redirection, File Descriptors | ✅ |
-| **[Libft](https://github.com/Ertugrul-Pakdamar/42_ring0_libft) & [Printf](https://github.com/Ertugrul-Pakdamar/42_ring1_printf)** | Re-writing Standard C Libraries from scratch | ✅ |
-
-</details>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ertugrul-pakdamar&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ertugrul-pakdamar&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" width="48%" />
-</p>
-
----
+### Tech Stack
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ADD8&height=100&section=footer"/>
+
+**Systems & Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Embedded & Real-Time**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![GNU Make](https://img.shields.io/badge/GNU_Make-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
+
+**Tooling**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GDB](https://img.shields.io/badge/GDB-3A3A3A?style=for-the-badge&logo=gnu&logoColor=white)
+![Valgrind](https://img.shields.io/badge/Valgrind-2E3A3F?style=for-the-badge&logo=valgrind&logoColor=white)
+
+</div>
+
+---
+ 
+### Featured Projects
+ 
+#### 🔗 [ertugrul-pakdamar/**libmem**](https://github.com/Ertugrul-Pakdamar/libmem)
+##### Deterministic, zero-malloc memory management library
+
+Eliminates the unpredictability of runtime `malloc`/`free` calls in embedded targets. Memory pools are pre-allocated up front, so allocation and deallocation run in constant, predictable time — no fragmentation, no surprises under load.
+
+![C](https://img.shields.io/badge/language-C-00599C?style=flat-square&logo=c)
+![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)
+![PRs](https://img.shields.io/badge/PRs-welcome-blueviolet?style=flat-square)
+ 
+#### 🔗 [ertugrul-pakdamar/**libqueue**](https://github.com/Ertugrul-Pakdamar/libqueue)
+##### Lock-free SPSC queue, built on libmem
+
+Enables inter-thread data transfer without mutex overhead and with deterministic latency. Integrates directly with `libmem`, so no dynamic allocation is ever required on the hot path.
+
+![C](https://img.shields.io/badge/language-C-00599C?style=flat-square&logo=c)
+![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)
+![PRs](https://img.shields.io/badge/PRs-welcome-blueviolet?style=flat-square)
+ 
+#### 🔗 [ertugrul-pakdamar/**AegisLink**](https://github.com/Ertugrul-Pakdamar/AegisLink)
+##### Deterministic UDP-based data transfer protocol
+
+A custom protocol layer built on top of `libqueue`, designed for reliable and predictable data transfer between real-time systems — forming a fully deterministic, end-to-end data pipeline.
+
+![C](https://img.shields.io/badge/language-C-00599C?style=flat-square&logo=c)
+![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)
+![PRs](https://img.shields.io/badge/PRs-welcome-blueviolet?style=flat-square)
+ 
+---
+ 
+### 42 Türkiye — CS Foundations
+ 
+Projects from the 42 core curriculum, focused on algorithms, memory management, and system architecture.
+ 
+| Project | Focus Area | Status |
+|---|---|:---:|
+| [**Minishell**](https://github.com/VedatZeybek/42-minishell) | Bash-like shell — parsing, processes, signals | ✅ |
+| [**Philosophers**](https://github.com/Ertugrul-Pakdamar/42_ring3_philosophers) | Concurrency, threads, mutexes, deadlock prevention | ✅ |
+| [**Push_swap**](https://github.com/Ertugrul-Pakdamar/42_ring2_push_swap) | Sorting algorithms, complexity analysis (Big O) | ✅ |
+| [**FdF**](https://github.com/Ertugrul-Pakdamar/42_ring2_fdf) | Graphics programming, event handling, matrix transforms | ✅ |
+| [**Pipex**](https://github.com/Ertugrul-Pakdamar/42_ring2_pipex) | Unix pipes, I/O redirection, file descriptors | ✅ |
+| [**Libft**](https://github.com/Ertugrul-Pakdamar/42_ring0_libft) & [**Printf**](https://github.com/Ertugrul-Pakdamar/42_ring1_printf) | Rewriting standard C libraries from scratch | ✅ |
+ 
+<div align="center">
+ 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ADD8&height=100&section=footer" width="100%"/>
 </div>
